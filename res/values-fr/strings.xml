@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Saint-Villes en direct</string>
+    <string name="mecca">La Mecque en direct</string>
+    <string name="madina">Madina en direct</string>
+
+</resources>

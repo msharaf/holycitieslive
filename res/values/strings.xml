@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Holy Cities Live</string>
+    <string name="mecca">Play Mecca Live</string>
+    <string name="madina">Play Madina Live</string>
+    <string name="action_settings"> Settings</string> 
+</resources>
